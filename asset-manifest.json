@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.9efd400a.css",
-    "main.js": "/static/js/main.697067c5.js",
-    "static/js/27.9abecb59.chunk.js": "/static/js/27.9abecb59.chunk.js",
+    "main.css": "/static/css/main.9e0c55c5.css",
+    "main.js": "/static/js/main.636bd5f1.js",
+    "static/js/206.3648901c.chunk.js": "/static/js/206.3648901c.chunk.js",
     "static/media/livetables.gif": "/static/media/livetables.456a7ab89ea64e82a4ab.gif",
     "static/media/slots.gif": "/static/media/slots.a33014cc03671039dfc6.gif",
     "static/media/newgames.gif": "/static/media/newgames.454800434a547b2e47e0.gif",
@@ -102,7 +102,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.9efd400a.css",
-    "static/js/main.697067c5.js"
+    "static/css/main.9e0c55c5.css",
+    "static/js/main.636bd5f1.js"
   ]
 }
